@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "BSN-SMP.aternos.me",
+    "port": 17896,
     "version": "",
     "try-creative": false
   },
